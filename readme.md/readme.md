@@ -1,0 +1,1 @@
+this project is the clone of myntra !  in this clone i added i functionality when user add a project to bag , bag count increase ! 
